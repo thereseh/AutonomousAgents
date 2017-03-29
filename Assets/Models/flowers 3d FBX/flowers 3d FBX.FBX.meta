@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: 7489a1b9f4667114ba09fc1920883df8
+timeCreated: 1480466972
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Blume01
+    100002: Blume02
+    100004: Blume03
+    100006: Blume04
+    100008: "Bl\xE4tter 01"
+    100010: "Bl\xE4tter 02"
+    100012: "Bl\xE4tter 03"
+    100014: "Bl\xE4tter 04"
+    100016: Cylinder01
+    100018: Cylinder02
+    100020: Cylinder03
+    100022: Cylinder04
+    100024: Cylinder05
+    100026: Cylinder07
+    100028: //RootNode
+    100030: Line01
+    100032: Line02
+    100034: Line03
+    100036: Line04
+    100038: Line05
+    100040: Line06
+    100042: Line07
+    100044: Line08
+    100046: Line09
+    100048: Line10
+    100050: Line11
+    100052: Line12
+    100054: Line13
+    100056: Line14
+    100058: Line15
+    100060: Line16
+    100062: Line17
+    100064: Line18
+    100066: Line19
+    100068: Line20
+    100070: Line21
+    100072: Line22
+    100074: Line23
+    100076: Line24
+    100078: Line25
+    100080: Line26
+    100082: Line27
+    100084: Line28
+    100086: Line29
+    100088: Line30
+    100090: Line31
+    100092: Line32
+    100094: Line33
+    100096: Line34
+    100098: Line35
+    100100: Line36
+    100102: Line37
+    100104: Line38
+    100106: Line39
+    100108: Line40
+    100110: Sphere01
+    100112: Sphere02
+    100114: Sphere03
+    100116: Sphere04
+    100118: Stengel 01
+    100120: Stengel 02
+    400000: Blume01
+    400002: Blume02
+    400004: Blume03
+    400006: Blume04
+    400008: "Bl\xE4tter 01"
+    400010: "Bl\xE4tter 02"
+    400012: "Bl\xE4tter 03"
+    400014: "Bl\xE4tter 04"
+    400016: Cylinder01
+    400018: Cylinder02
+    400020: Cylinder03
+    400022: Cylinder04
+    400024: Cylinder05
+    400026: Cylinder07
+    400028: //RootNode
+    400030: Line01
+    400032: Line02
+    400034: Line03
+    400036: Line04
+    400038: Line05
+    400040: Line06
+    400042: Line07
+    400044: Line08
+    400046: Line09
+    400048: Line10
+    400050: Line11
+    400052: Line12
+    400054: Line13
+    400056: Line14
+    400058: Line15
+    400060: Line16
+    400062: Line17
+    400064: Line18
+    400066: Line19
+    400068: Line20
+    400070: Line21
+    400072: Line22
+    400074: Line23
+    400076: Line24
+    400078: Line25
+    400080: Line26
+    400082: Line27
+    400084: Line28
+    400086: Line29
+    400088: Line30
+    400090: Line31
+    400092: Line32
+    400094: Line33
+    400096: Line34
+    400098: Line35
+    400100: Line36
+    400102: Line37
+    400104: Line38
+    400106: Line39
+    400108: Line40
+    400110: Sphere01
+    400112: Sphere02
+    400114: Sphere03
+    400116: Sphere04
+    400118: Stengel 01
+    400120: Stengel 02
+    2300000: Cylinder01
+    2300002: Cylinder02
+    2300004: Cylinder03
+    2300006: Cylinder04
+    2300008: Cylinder05
+    2300010: Cylinder07
+    2300012: Line01
+    2300014: Line02
+    2300016: Line03
+    2300018: Line04
+    2300020: Line05
+    2300022: Line06
+    2300024: Line07
+    2300026: Line08
+    2300028: Line09
+    2300030: Line10
+    2300032: Line11
+    2300034: Line12
+    2300036: Line13
+    2300038: Line14
+    2300040: Line15
+    2300042: Line16
+    2300044: Line17
+    2300046: Line18
+    2300048: Line19
+    2300050: Line20
+    2300052: Line21
+    2300054: Line22
+    2300056: Line23
+    2300058: Line24
+    2300060: Line25
+    2300062: Line26
+    2300064: Line27
+    2300066: Line28
+    2300068: Line29
+    2300070: Line30
+    2300072: Line31
+    2300074: Line32
+    2300076: Line33
+    2300078: Line34
+    2300080: Line35
+    2300082: Line36
+    2300084: Line37
+    2300086: Line38
+    2300088: Line39
+    2300090: Line40
+    2300092: Sphere01
+    2300094: Sphere02
+    2300096: Sphere03
+    2300098: Sphere04
+    2300100: Stengel 01
+    2300102: Stengel 02
+    3300000: Cylinder01
+    3300002: Cylinder02
+    3300004: Cylinder03
+    3300006: Cylinder04
+    3300008: Cylinder05
+    3300010: Cylinder07
+    3300012: Line01
+    3300014: Line02
+    3300016: Line03
+    3300018: Line04
+    3300020: Line05
+    3300022: Line06
+    3300024: Line07
+    3300026: Line08
+    3300028: Line09
+    3300030: Line10
+    3300032: Line11
+    3300034: Line12
+    3300036: Line13
+    3300038: Line14
+    3300040: Line15
+    3300042: Line16
+    3300044: Line17
+    3300046: Line18
+    3300048: Line19
+    3300050: Line20
+    3300052: Line21
+    3300054: Line22
+    3300056: Line23
+    3300058: Line24
+    3300060: Line25
+    3300062: Line26
+    3300064: Line27
+    3300066: Line28
+    3300068: Line29
+    3300070: Line30
+    3300072: Line31
+    3300074: Line32
+    3300076: Line33
+    3300078: Line34
+    3300080: Line35
+    3300082: Line36
+    3300084: Line37
+    3300086: Line38
+    3300088: Line39
+    3300090: Line40
+    3300092: Sphere01
+    3300094: Sphere02
+    3300096: Sphere03
+    3300098: Sphere04
+    3300100: Stengel 01
+    3300102: Stengel 02
+    4300000: Cylinder03
+    4300002: Line31
+    4300004: Line32
+    4300006: Line33
+    4300008: Line34
+    4300010: Line35
+    4300012: Line36
+    4300014: Line37
+    4300016: Line38
+    4300018: Line39
+    4300020: Sphere04
+    4300022: Line40
+    4300024: Cylinder07
+    4300026: Cylinder02
+    4300028: Line07
+    4300030: Line10
+    4300032: Line05
+    4300034: Line02
+    4300036: Line01
+    4300038: Line06
+    4300040: Line08
+    4300042: Line09
+    4300044: Line03
+    4300046: Sphere01
+    4300048: Line04
+    4300050: Cylinder01
+    4300052: Stengel 01
+    4300054: Line21
+    4300056: Line22
+    4300058: Sphere03
+    4300060: Line23
+    4300062: Line24
+    4300064: Line25
+    4300066: Line26
+    4300068: Cylinder05
+    4300070: Line27
+    4300072: Line28
+    4300074: Line29
+    4300076: Line30
+    4300078: Stengel 02
+    4300080: Line11
+    4300082: Sphere02
+    4300084: Line15
+    4300086: Line14
+    4300088: Line13
+    4300090: Line12
+    4300092: Cylinder04
+    4300094: Line20
+    4300096: Line19
+    4300098: Line18
+    4300100: Line17
+    4300102: Line16
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
